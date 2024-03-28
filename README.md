@@ -1,8 +1,8 @@
 
 
-# 🌿 wChan Bot 🌿 
+# 🌿 wChanWhisper 🌿 
 
-wChan Bot is a non-commercial project representing a Discord bot developed in JavaScript using the Node.js runtime environment. The bot was created with the primary goal of enhancing user interaction on the channel by providing various moderation and entertainment features. It allows for scaling the number of voice channels, provides various chat moderation commands, and includes a built-in AI assistant that simulates the behavior of a regular channel moderator, making it even more attractive to users.
+wChanWhisper is a non-commercial project representing a Discord bot developed in JavaScript using the Node.js runtime environment. The bot was created with the primary goal of enhancing user interaction on the channel by providing various moderation and entertainment features. It allows for scaling the number of voice channels, provides various chat moderation commands, and includes a built-in AI assistant that simulates the behavior of a regular channel moderator, making it even more attractive to users.
 
 ## 🔧 Installation and Setup 🔧
 
