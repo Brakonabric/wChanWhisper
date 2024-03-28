@@ -70,7 +70,7 @@ npm run stop
 + **Configuration:**
    - All configuration data, such as tokens, identifiers, and settings, are stored in the `data/config.js` file.
    - Data such as tokens are loaded through environment variables using the `dotenv` library.
-   - Template `.env` file with descriptions of necessary data [here]().
+   - Template `.env` file with descriptions of necessary data [here](https://github.com/Brakonabric/wChanWhisper/blob/main/data/DOTENV.md).
 
 
 + **Error Handling:**
@@ -103,5 +103,5 @@ npm run stop
 
 ## 📝 License 📝
 
-This project is licensed under the [Apache License 2.0](https://github.com/Brakonabric/wChan/blob/main/LICENSE).
+This project is licensed under the [Apache License 2.0](https://raw.githubusercontent.com/Brakonabric/wChanWhisper/main/LICENSE).
 
