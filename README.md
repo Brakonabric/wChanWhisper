@@ -54,15 +54,16 @@ npm run stop
 
 
 + **Utilization of Discord API:**
-   - Discord.js library is used for interacting with the Discord API.
-   - The bot subscribes to various events using Discord Gateway Intents, such as messages, server members, and changes in voice channel states.
-   - Bot commands are implemented through Discord Slash Commands, allowing users to interact with the bot in a convenient and intuitive way.
+   - [Discord.js](https://discord.js.org/) library is used for interacting with the Discord API.
+   - The bot subscribes to various events using [Discord Gateway Intents](https://discordjs.guide/popular-topics/intents.html#privileged-intents), such as messages, server members, and changes in voice channel states.
+   - Bot commands are implemented through [Discord Slash Commands](https://discordjs.guide/creating-your-bot/slash-commands.html#individual-command-files), allowing users to interact with the bot in a convenient and intuitive way.
 
 
 + **Bots Functional Capabilities:**
    - The project provides various functions such as:
       - `/purge` Deleting messages from text channels.
       - Automatic creation of voice channels when joining a previously established voice channel as a "hub", and their subsequent deletion after being emptied.
+        ![img.gif](https://i.imgur.com/xfrp1gu.gif)
       - `/am` Adds a name to the global list stored on your Json server for generating a random name for a new voice channel.
    - To enhance the user experience, the bot reacts to various events such as mentions in messages, changes in voice channel states, and others.
 
@@ -90,6 +91,7 @@ npm run stop
 
 + **Chat Interaction Features:**
    - The bot provides a unique pattern of behavior and simulates a fictional chat participant.
+    
       - The bot may selectively ignore chat participants for an indefinite period if they mention it in the chat.
       - The bot may randomly leave the chat for an indefinite period when attempting to address it.
    - Using language models, the bot can respond to users when addressed in a text channel, simulating a fictional chat participant with its own character and individual behavior.

@@ -20,7 +20,7 @@ const ref = {
 	 */
 	debugChannelId: process.env.DEBUGCHANNEL,
 	/**
-	 * Main guild id. BCTOWER.
+	 * Main guild id.
 	 */
 	mainGuildId: process.env.MAINGUILD,
 	/**
