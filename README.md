@@ -63,7 +63,7 @@ npm run stop
    - The project provides various functions such as:
       - `/purge` Deleting messages from text channels.
       - Automatic creation of voice channels when joining a previously established voice channel as a "hub", and their subsequent deletion after being emptied.
-        ![img.gif](https://i.imgur.com/xfrp1gu.gif)
+        ![img.gif](https://i.imgur.com/BGyvjl2.gif)
       - `/am` Adds a name to the global list stored on your Json server for generating a random name for a new voice channel.
    - To enhance the user experience, the bot reacts to various events such as mentions in messages, changes in voice channel states, and others.
 
@@ -90,11 +90,12 @@ npm run stop
 
 
 + **Chat Interaction Features:**
-   - The bot provides a unique pattern of behavior and simulates a fictional chat participant.
-    
-      - The bot may selectively ignore chat participants for an indefinite period if they mention it in the chat.
-      - The bot may randomly leave the chat for an indefinite period when attempting to address it.
-   - Using language models, the bot can respond to users when addressed in a text channel, simulating a fictional chat participant with its own character and individual behavior.
+   - Using language models, the bot provides a unique pattern of behavior and simulates a fictional chat participant. The bot can respond to users when addressed in a text channel, simulating a fictional chat participant with its own character and individual behavior.
+   ![img.gif](https://i.imgur.com/eQO50bE.gif)
+   - The bot may selectively ignore chat participants for an indefinite period if they mention it in the chat.
+   ![img.gif](https://i.imgur.com/rQlINyX.gif)
+   - The bot may randomly leave the chat for an indefinite period when attempting to address it.
+   ![img.gif](https://i.imgur.com/KZXSMcM.gif)
 
 ## ⚙️ Environment Requirements ⚙️
 
