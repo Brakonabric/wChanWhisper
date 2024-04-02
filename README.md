@@ -63,7 +63,7 @@ npm run stop
    - The project provides various functions such as:
       - `/purge` Deleting messages from text channels.
       - Automatic creation of voice channels when joining a previously established voice channel as a "hub", and their subsequent deletion after being emptied.
-        ![img.gif](https://i.imgur.com/Smji72w.gif)
+        ![img.gif](https://i.imgur.com/7B51ElO.gif)
       - `/am` Adds a name to the global list stored on your Json server for generating a random name for a new voice channel.
    - To enhance the user experience, the bot reacts to various events such as mentions in messages, changes in voice channel states, and others.
 
