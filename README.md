@@ -91,11 +91,11 @@ npm run stop
 
 + **Chat Interaction Features:**
    - Using language models, the bot provides a unique pattern of behavior and simulates a fictional chat participant. The bot can respond to users when addressed in a text channel, simulating a fictional chat participant with its own character and individual behavior.
-   ![img.gif](https://i.imgur.com/HfyiL3M.gif)
+   ![img.gif](https://i.imgur.com/8Evj2Cc.gif)
    - The bot may selectively ignore chat participants for an indefinite period if they mention it in the chat.
-   ![img.gif](https://i.imgur.com/YzpOcP6.gif)
+   ![img.gif](https://i.imgur.com/yzmKq3z.gif)
    - The bot may randomly leave the chat for an indefinite period when attempting to address it.
-   ![img.gif](https://i.imgur.com/IHvbbeZ.gif)
+   ![img.gif](https://i.imgur.com/PlgAngr.gif)
 
 ## ⚙️ Environment Requirements ⚙️
 
