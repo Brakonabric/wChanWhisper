@@ -9,7 +9,7 @@ wChanWhisper is a non-commercial project representing a Discord bot developed in
    #### 1. Clone the repository to your computer:
    
    ```
-   gh repo clone Brakonabric/wChan
+   gh repo clone Brakonabric/wChanWhisper
    ```
    
    #### 2. Install dependencies:
